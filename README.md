@@ -1,12 +1,12 @@
 ### JAVA & Web Developer
 
-- JAVA & Web Developer in GLOBIS INFOTECH
+- JAVA & Web Developer
 - Behavior forms habits, and habits determine personality. Personality solidifies our destiny.<br>
   <code>I am a developer who wants to be a guide for developers.</code>
 
 ### Interested
 
-<code>#1 TDD</code> 
+<code>#1 TDD</code>
 <code>#2 DDD</code> 
 <code>#3 REST api</code>
 <code>#4 Javascript</code>
