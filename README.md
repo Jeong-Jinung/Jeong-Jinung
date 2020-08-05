@@ -1,11 +1,15 @@
 ### JAVA & Web Developer
+
 - JAVA & Web Developer in GLOBIS INFOTECH
 
 ### Interested
+
 <pre>#1 TDD</pre> 
 <pre>#2 DDD</pre> 
 <pre>#3 REST api</pre>
 <pre>#4 Javascript</pre>
+
+<br>
 
 <div align=center>
   
