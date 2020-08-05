@@ -1,4 +1,5 @@
-### Hi there 👋
+### JAVA & Web Developer
+- JAVA & Web Developer in GLOBIS INFOTECH
 
  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://polarisdev.tistory.com/)](https://polarisdev.tistory.com/)
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jinung.dev@gmail.com)](mailto:jinung.dev@gmail.com)
