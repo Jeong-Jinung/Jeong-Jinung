@@ -6,10 +6,10 @@
 
 ### Interested
 
-<pre>#1 TDD</pre> 
-<pre>#2 DDD</pre> 
-<pre>#3 REST api</pre>
-<pre>#4 Javascript</pre>
+<code>#1 TDD</code> 
+<code>#2 DDD</code> 
+<code>#3 REST api</code>
+<code>#4 Javascript</code>
 
 <br>
 
