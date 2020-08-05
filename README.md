@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+ [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://polarisdev.tistory.com/)](https://zzsza.github.io/)
+
 <!--
 **Jeong-Jinung/Jeong-Jinung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
