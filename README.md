@@ -1,6 +1,11 @@
 ### JAVA & Web Developer
 - JAVA & Web Developer in GLOBIS INFOTECH
 
+### Interested
+- <pre>#1<pre> TDD
+- <pre>#2<pre> DDD
+- <pre>#3<pre> REST api
+
 <div align=center>
   
 [![Notion Badge](https://img.shields.io/badge/-Portpolio-lightgrey?style=flat-square&logo=notion&link=https://www.notion.so/devjeong/Java-Backend-Developer-528afe77c47d42e58bec8cd269465b76/)](https://www.notion.so/devjeong/Java-Backend-Developer-528afe77c47d42e58bec8cd269465b76/)
