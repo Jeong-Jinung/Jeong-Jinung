@@ -13,6 +13,14 @@
 
 <br>
 
+
+
+<div align=center>
+ 
+   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jeong-Jinung)](https://github.com/anuraghazra/github-readme-stats)
+ 
+<div>
+
 <div align=center>
 
   [![Notion Badge](https://img.shields.io/badge/-Portpolio-lightgrey?style=flat-square&logo=notion&link=https://www.notion.so/devjeong/Java-Backend-Developer-528afe77c47d42e58bec8cd269465b76/)](https://www.notion.so/devjeong/Java-Backend-Developer-528afe77c47d42e58bec8cd269465b76/)
@@ -21,12 +29,7 @@
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jinung.dev@gmail.com)](mailto:jinung.dev@gmail.com)
 
 </div>
-
-<div align=center>
- 
-   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jeong-Jinung)](https://github.com/anuraghazra/github-readme-stats)
- 
-<div>
+  
 <!--
 **Jeong-Jinung/Jeong-Jinung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
