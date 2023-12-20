@@ -17,7 +17,7 @@
 
 <div align=center>
  
-   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jeong-Jinung)](https://github.com/anuraghazra/github-readme-stats)
+   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jeong-Jinung&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
  
 <div>
 
