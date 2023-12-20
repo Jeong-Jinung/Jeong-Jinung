@@ -1,3 +1,5 @@
+
+
 ### JAVA & Web Developer
 
 - JAVA & Web Developer
@@ -13,15 +15,17 @@
 
 <br>
 
+<div align = center>
 
+<b>🧑‍💻 Github Stats </b>
 
-<div align=center>
- 
-   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jeong-Jinung&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
- 
-<div>
+[![Jeong-Jinung's github stats](https://github-readme-stats.vercel.app/api?username=Jeong-Jinung&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align=center>
+<br>
+
+<b>:runner: Beakjoon Solved Stats </b>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=anthony_jeong)](https://solved.ac/anthony_jeong)
 
 [![Notion Badge](https://img.shields.io/badge/-Portpolio-lightgrey?style=flat-square&logo=notion&link=https://devjeong.notion.site/e13049c2bdf74392b2d0ffec1f616599/)](https://devjeong.notion.site/e13049c2bdf74392b2d0ffec1f616599/)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&link=https://polarisdev.tistory.com/)](https://polarisdev.tistory.com/)
@@ -29,7 +33,10 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jinung.dev@gmail.com)](mailto:jinung.dev@gmail.com)
 
 </div>
-  
+
+
+
+
 <!--
 **Jeong-Jinung/Jeong-Jinung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
