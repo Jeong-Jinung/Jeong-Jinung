@@ -1,10 +1,15 @@
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hi,%20there&fontSize=25&fontAlignY=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 
 ### JAVA & Web Developer
 
 - JAVA & Web Developer
 - Behavior forms habits, and habits determine personality. Personality solidifies our destiny.<br>
   <code>I am a developer who wants to be a guide for developers.</code>
+
+
+
+
 
 ### Interested
 
@@ -21,6 +26,8 @@
 
 [![Jeong-Jinung's github stats](https://github-readme-stats.vercel.app/api?username=Jeong-Jinung&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeong-Jinung)](https://github.com/anuraghazra/github-readme-stats)
+
 <br>
 
 <b>:runner: Beakjoon Solved Stats </b>
@@ -32,7 +39,12 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jinung-jeong-9580821b1/)](https://www.linkedin.com/in/jinung-jeong-9580821b1/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jinung.dev@gmail.com)](mailto:jinung.dev@gmail.com)
 
+<a href="https://opgc.me/#/users/Jeong-Jinung" target="_blank"><img src="https://api.opgc.me/githubs/users/Jeong-Jinung/tag/?theme=basic" /></a>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Jeong-Jinung&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
+
 
 
 
