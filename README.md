@@ -9,7 +9,7 @@
 좋은설계와 좋은 코드를 찾아보며 Clean Code와 Test를 통해 더 나은 코드를 작성하기 위해 노력합니다.  
 이를 통해 <b>함께 성장하는 팀웍</b>을 만들고 싶습니다.  
                                            
-[![Notion Badge](https://img.shields.io/badge/-Portpolio-lightgrey?style=flat-square&logo=notion&link=https://devjeong.notion.site/e13049c2bdf74392b2d0ffec1f616599/)](https://devjeong.notion.site/e13049c2bdf74392b2d0ffec1f616599/)
+[![Notion Badge](https://img.shields.io/badge/-Resume-lightgrey?style=flat-square&logo=notion&link=https://devjeong.notion.site/e13049c2bdf74392b2d0ffec1f616599/)](https://devjeong.notion.site/e13049c2bdf74392b2d0ffec1f616599/)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&link=https://polarisdev.tistory.com/)](https://polarisdev.tistory.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jinung-jeong-9580821b1/)](https://www.linkedin.com/in/jinung-jeong-9580821b1/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jinung.dev@gmail.com)](mailto:jinung.dev@gmail.com)
