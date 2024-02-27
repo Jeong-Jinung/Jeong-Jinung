@@ -36,7 +36,7 @@
 <a href="https://opgc.me/#/users/Jeong-Jinung" target="_blank"><img src="https://api.opgc.me/githubs/users/Jeong-Jinung/tag/?theme=prism" /></a>
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Jeong-Jinung%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Behavior%20forms%20habits,%20and%20habits%20determine%20personality.%20Personality%20solidifies%20our%20destiny.&fontSize=15&fontAlignY=90" />
 
