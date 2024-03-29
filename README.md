@@ -20,7 +20,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeong-Jinung&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Jeong-Jinung's github stats](https://github-readme-stats.vercel.app/api?username=Jeong-Jinung&show_icons=true&theme=highcontrast&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+[![Jeong-Jinung's github stats](https://github-readme-stats.vercel.app/api?username=Jeong-Jinung&show_icons=true&theme=material-palenight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Jeong-Jinung&theme=nord)](https://github.com/ryo-ma/github-profile-trophy) -->
